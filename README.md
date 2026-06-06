@@ -1,4 +1,4 @@
-# 🎮 Minha Gameteca — Microsserviços com Node.js e Express
+# 🎮 Minha Gameteca - Microsserviços com Node.js e Express
 
 Plataforma de coleção de jogos construída com arquitetura de microsserviços.  
 Três serviços independentes se comunicam via HTTP para compor a resposta final.
